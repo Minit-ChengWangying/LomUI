@@ -1,3 +1,6 @@
+body {   /* #f0f0f0是迷小的官方指定默认颜色 */
+    background-color: #f0f0f0;
+}
 input {
     width: 345px;
     height: 40px;
